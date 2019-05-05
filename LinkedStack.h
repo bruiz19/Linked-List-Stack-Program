@@ -2,8 +2,8 @@
 //Section 02
 
 // Adapted from version by Frank Carrano and Timothy Henry
-#ifndef _LINKED_STACK
-#define _LINKED_STACK
+#ifndef LINKEDSTACK_H
+#define LINKEDSTACK_H
 
 template<class Type>
 class Node
