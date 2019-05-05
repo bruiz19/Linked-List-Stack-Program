@@ -33,5 +33,5 @@ public:
     Type peek(); // Returns the value stored at the top of the stack.
 }; // end LinkedStack
 
-#include "LinkedStacked.cpp"
+#include "LinkedStack.cpp"
 #endif
