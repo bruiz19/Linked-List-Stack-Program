@@ -1,0 +1,3 @@
+//you can change expression to test various expressions
+
+{ 15 * 10 } + ( [ 15 + ( 60 * 10 + [ 10 / 10 ] ) )
